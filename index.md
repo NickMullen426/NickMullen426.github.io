@@ -1,7 +1,9 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## prompt{A creative title for an AI blog}
 
-![Image of fast.ai logo](images/logo.png)
+Hello and welcome to my blog. This blog will follow my journey into the world of AI, mainly using the user friendly package FastAI. It will offer an insight into a beginners misunderstandings in AI through the complications that arise during my attempt at image classification and other pursuits.  
 
-## This is a title
+![The suposed frontier of technology](images/18uyfsqnzb151.jpg)
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
+
+ 
